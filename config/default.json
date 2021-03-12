@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://nin3439:25032018@travel-app.h76x3.mongodb.net/travel-app?retryWrites=true&w=majority",
+  "secretKey": "travel-secret-key"
+}
